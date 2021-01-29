@@ -5,8 +5,4 @@ k3os:
   - 0.us.pool.ntp.org
   - 1.us.pool.ntp.org
   password: testingonly
-  server_url: https://192.168.1.221:6443
   token: testingonly
-k3s_args:
-  - server
-  - "--disable-agent"
